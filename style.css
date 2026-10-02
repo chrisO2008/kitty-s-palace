@@ -212,38 +212,26 @@
 .myform button {
     padding: 10px 25px;
 }
-.footer-section {
-width: 100%;
-height: auto;
-}
-
-.footerlogo {
-    width: 150px;
-    height: 150px;
+.chr img{
+    width: 80px;
+    height: 80px;
     border-radius: 100%;
-    
 }
-
-.footer-section p {
-    color: #cbd5e1;
-    line-height: 1.7;
+.foot ul{
+      list-style: none;
 }
-
-.footer-links li {
-    margin-bottom: 10px;
+.foot ul li{
+   padding: 3px 0;
 }
-
-.footer-links a {
-    color: #cbd5e1;
+.foot ul li a{
     text-decoration: none;
-    transition: 0.3s;
+    color: black;
 }
-
-.footer-links a:hover {
-    color: #ffc107;
-    padding-left: 5px;
+.foot ul li a:hover{
+    text-decoration: underline;
+    color: green;
 }
-
-.footer-section hr {
-    border-color: #475569;
+.ebb{
+    height: 100px;
+    padding: 30px;
 }
